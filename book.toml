@@ -1,0 +1,7 @@
+[book]
+title = "Restaking and Shared Security Risk"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/restaking-shared-security-risk"
